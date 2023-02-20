@@ -26,5 +26,5 @@ I'm a student on Aalborg University studying Robotics Engineering (Bachelor).
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBK&layout=compact&theme?vision-friendl-dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BARmRoTMG" />
 </a>
