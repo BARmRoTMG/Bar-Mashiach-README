@@ -1,7 +1,7 @@
 # Welcome!
 
 ## About me
-I'm a student on Aalborg University studying Robotics Engineering (Bachelor).
+I'm a junior full stack developer, with a professional diploma achieved by graduating from Sela College in Israel.
 
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,3 +28,5 @@ I'm a student on Aalborg University studying Robotics Engineering (Bachelor).
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BARmRoTMG" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BARmRoTMG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
