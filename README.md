@@ -1,7 +1,7 @@
 # Welcome!
 
 ## About me
-I'm a junior full stack developer, with a professional diploma achieved by graduating from Sela College in Israel.
+As a full stack software developer, I am passionate about creating high-quality applications using .NET and web technologies. With years of experience under my belt, I have a proven track record of delivering projects on time and exceeding expectations. I am always eager to learn and improve, and I have a knack for quickly picking up new technologies and techniques. My strengths include a strong technical background, analytical abilities, and excellent communication and collaboration skills. As a team player, I thrive in environments that foster collaboration and creativity.
 
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
